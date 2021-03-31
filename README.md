@@ -31,7 +31,7 @@ Seu grupo foi contratado para realizar a automação do chão de fábrica de uma
 
 Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar cada ponto necessário para completar o desafio.
 
-##**A SOLUÇÃO:**
+##A SOLUÇÃO:
 
 ### Funcionalidades esperadas:
 
