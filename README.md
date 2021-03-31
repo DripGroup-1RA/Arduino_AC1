@@ -40,3 +40,5 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
+#### SHORT BIOS:
