@@ -34,6 +34,8 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 
 ##A SOLUÇÃO:
 
+Nosso grupo foi contratado para para fazer a automação do chão de uma fábrica de uma farmacêutica, para fazermos essa automação pensamos em colocar avisos luminosos no chão e sensores para os funcionários, os avisos luminosos poderam funcionar com um botão de liga e desliga ou por sensores nas máquinas, onde quando elas estão ligadas os avisos se ligaram também. 
+
 ### Funcionalidades esperadas:
 
 - Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
