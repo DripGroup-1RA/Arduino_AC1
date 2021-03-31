@@ -1,18 +1,37 @@
-# Arduino_AC1
-## Nossa primeira AC, observe bem o código, procure pelos erros.
+#DripGroup 1RA
+## Arduino_AC1
 
-Use o FORK para adicionar esse projeto a sua organização antes de começar.
+
 
 ![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
 
 ![](https://github.com/Leoruiz197/Arduino_AC1/blob/main/AC1.png)
 
+
+#### SHORT BIOS:
+
+###Alberto Auê Libonati Allegri 
+![Alberto - The drip group](https://user-images.githubusercontent.com/79208420/113194384-7644a980-9237-11eb-9059-db5426688318.jpeg)
+Sou o Auê, o pai é jogador caro e não entende nada de progamação mas eu me viro como dá, não tenho PC e não entendo de progamação e sobre a parte de não ter PC é por isso que eu não estou postando minha short bio mas estou ajudando como posso. 
+
+Função: fazer o texto introdutório e auxiliar os membros do grupo em suas funções. 
+
+###Breno de Mendonça Aguiar 
+
+![image](https://user-images.githubusercontent.com/67332235/113200990-65983180-923f-11eb-8626-7d8a228b26b0.png)
+
+Eu sou breno tenho 2 irmãos mais velhos e gosto de jogar uns games de playstation e gosto muito de Naruto. 
+
+Função: Arrumar o código, adicionar as funções necessários e comentar.
+
 ## **O PROBLEMA:** 
 
 Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
 
 Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar cada ponto necessário para completar o desafio.
+
+##**A SOLUÇÃO:**
 
 ### Funcionalidades esperadas:
 
@@ -41,18 +60,5 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
 
-#### SHORT BIOS:
 
-Alberto Auê Libonati Allegri 
-![Alberto - The drip group](https://user-images.githubusercontent.com/79208420/113194384-7644a980-9237-11eb-9059-db5426688318.jpeg)
-Sou o Auê, o pai é jogador caro e não entende nada de progamação mas eu me viro como dá, não tenho PC e não entendo de progamação e sobre a parte de não ter PC é por isso que eu não estou postando minha short bio mas estou ajudando como posso. 
-
-Função: fazer o texto introdutório e auxiliar os membros do grupo em suas funções. 
-
-Breno de Mendonça Aguiar 
-![Breno - The drip group](https://user-images.githubusercontent.com/79208420/113199280-52846200-923d-11eb-945f-91a03720b42f.jpeg) 
-
-Eu sou breno tenho 2 irmãos mais velhos e gosto de jogar uns games de playstation e gosto muito de Naruto. 
-
-Função: Arrumar o código, adicionar as funções necessários e comentar.
 
