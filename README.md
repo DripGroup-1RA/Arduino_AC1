@@ -42,3 +42,9 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 - **Shield.io:** https://shields.io/
 
 #### SHORT BIOS:
+
+Alberto Auê Libonati Allegri 
+![Alberto - The drip group](https://user-images.githubusercontent.com/79208420/113194384-7644a980-9237-11eb-9059-db5426688318.jpeg)
+Sou o Auê, o pai é jogador caro e não entende nada de progamação mas eu me viro como dá, não tenho PC e não entendo de progamação e sobre a parte de não ter PC é por isso que eu não estou postando minha short bio mas estou ajudando como posso. 
+
+Função: fazer o texto introdutório e auxiliar os membros do grupo em suas funções. 
