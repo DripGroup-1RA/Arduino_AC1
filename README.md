@@ -48,3 +48,11 @@ Alberto Auê Libonati Allegri
 Sou o Auê, o pai é jogador caro e não entende nada de progamação mas eu me viro como dá, não tenho PC e não entendo de progamação e sobre a parte de não ter PC é por isso que eu não estou postando minha short bio mas estou ajudando como posso. 
 
 Função: fazer o texto introdutório e auxiliar os membros do grupo em suas funções. 
+
+Breno de Mendonça Aguiar 
+![Breno - The drip group](https://user-images.githubusercontent.com/79208420/113199280-52846200-923d-11eb-945f-91a03720b42f.jpeg) 
+
+Eu sou breno tenho 2 irmãos mais velhos e gosto de jogar uns games de playstation e gosto muito de Naruto. 
+
+Função: Arrumar o código, adicionar as funções necessários e comentar.
+
