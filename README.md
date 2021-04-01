@@ -12,7 +12,7 @@
 
 #### Sobre o grupo e introdução: 
 
-Nós somos The drip group, nossa turma é o 1RA, nosso grupo é composto por 4 integrantes, que são o Alberto, Breno, Felipe e Giovani. 
+Nós somos The drip group, nosso grupo é composto por 4 integrantes, que são: Alberto, Breno, Felipe e Giovani e somos da turma 1RA. 
 Nosso grupo vai ter que automatizar o chão de uma fábrica responsável por produzir doses de vacina. Para isso, vamos colocar no chão sensores e avisos luminoso para ajudar os funcionários responsáveis pela produção.
 
 #### SHORT BIOS:
@@ -29,7 +29,7 @@ Função: fazer o texto da solução e auxiliar os membros do grupo em suas fun�
 
 ![image](https://user-images.githubusercontent.com/67332235/113200990-65983180-923f-11eb-8626-7d8a228b26b0.png)
 
-Eu sou breno tenho 2 irmãos mais velhos e gosto de jogar uns games de playstation e gosto muito de Naruto. 
+Eu sou Breno tenho 2 irmãos mais velhos e gosto de jogar uns games de PlayStation e gosto muito de Naruto. 
 
 Função: Arrumar o código, adicionar as funções necessários e comentar.  
 
