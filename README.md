@@ -1,30 +1,53 @@
 
 
 ## Arduino_AC1
-#DripGroup 1RA
+# The Drip Group 1RA
 
 
 ![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
 
 
-![](https://github.com/DripGroup-1RA/Arduino_AC1/blob/main/AC1.PNG)
+![](https://github.com/DripGroup-1RA/Arduino_AC1/blob/main/AC1.PNG) 
+
+#### Sobre o grupo e introdução: 
+
+Nós somos The drip group, nossa turma é o 1RA, nosso grupo é composto por 4 integrantes, que são o Alberto, Breno, Felipe e Giovani. 
+Nosso grupo vai ter que automatizar o chão de uma fábrica responsável por produzir doses de vacina. Para isso, vamos colocar no chão sensores e avisos luminoso para ajudar os funcionários responsáveis pela produção.
 
 #### SHORT BIOS:
 
-###Alberto Auê Libonati Allegri 
-![Alberto - The drip group](https://user-images.githubusercontent.com/79208420/113194384-7644a980-9237-11eb-9059-db5426688318.jpeg)
+### Alberto Auê Libonati Allegri 
+
+![Alberto - The drip group](https://user-images.githubusercontent.com/79208420/113194384-7644a980-9237-11eb-9059-db5426688318.jpeg) 
+
 Sou o Auê, o pai é jogador caro e não entende nada de progamação mas eu me viro como dá, não tenho PC e não entendo de progamação e sobre a parte de não ter PC é por isso que eu não estou postando minha short bio mas estou ajudando como posso. 
 
-Função: fazer o texto introdutório e auxiliar os membros do grupo em suas funções. 
+Função: fazer o texto da solução e auxiliar os membros do grupo em suas funções. 
 
-###Breno de Mendonça Aguiar 
+### Breno de Mendonça Aguiar 
 
 ![image](https://user-images.githubusercontent.com/67332235/113200990-65983180-923f-11eb-8626-7d8a228b26b0.png)
 
 Eu sou breno tenho 2 irmãos mais velhos e gosto de jogar uns games de playstation e gosto muito de Naruto. 
 
-Função: Arrumar o código, adicionar as funções necessários e comentar.
+Função: Arrumar o código, adicionar as funções necessários e comentar.  
+
+### Felipe Tavares 
+
+![Felipe Tavares - The drip group](https://user-images.githubusercontent.com/79208420/113337738-91c6b780-92fe-11eb-9491-d1710380ad30.jpeg)
+
+Meu nome é Felipe, gosto de plantar, ler e ver vídeos sobre diferentes temas e também gosto de testar coisas novas.
+
+Função: conferir se as coisas estão certas, corrigir, adicionar e postar o que precisar.
+
+### Giovani 
+
+![Giovani - The drip group](https://user-images.githubusercontent.com/79208420/113331529-76f04500-92f6-11eb-9d29-2555626a2016.jpeg) 
+
+Meu nome é Giovani Rizzi, treino basquete, capoeira e jogo bastante COD warzone. 
+
+Função: escrever o texto sobre o grupo e o texto introdutório.
 
 ## **O PROBLEMA:** 
 
@@ -32,9 +55,9 @@ Seu grupo foi contratado para realizar a automação do chão de fábrica de uma
 
 Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar cada ponto necessário para completar o desafio.
 
-##A SOLUÇÃO:
+## A SOLUÇÃO:
 
-Nosso grupo foi contratado para para fazer a automação do chão de uma fábrica de uma farmacêutica, para fazermos essa automação pensamos em colocar avisos luminosos no chão e sensores para os funcionários, os avisos luminosos poderam funcionar com um botão de liga e desliga ou por sensores nas máquinas, onde quando elas estão ligadas os avisos se ligaram também. 
+Nosso grupo foi contratado para para fazer a automação do chão de uma fábrica de uma farmacêutica, para fazermos essa automação pensamos em colocar avisos luminosos no chão e sensores para os funcionários, os avisos luminosos poderam funcionar com um botão de liga e desliga ou por sensores nas máquinas, onde quando elas estão ligadas os avisos se ligarão também. 
 
 ### Funcionalidades esperadas:
 
